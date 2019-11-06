@@ -1,4 +1,4 @@
-h2{
+h3{
     font-family: "Times New Roman", Times, serif;
     text-align:center;
     background-color: aquamarine;
@@ -16,7 +16,4 @@ p{
     text-align: center;
      background-color: #80ced6;
 }
-ol{ 
-    text-align:center;
-    background-color: #80ced6;
-}
+
