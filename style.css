@@ -6,6 +6,7 @@ h3{
   border: 5px solid green;
   padding: 15px;
   margin: auto;
+    text-size: 65px;
 }
 body{
     background-color: aqua;
@@ -18,7 +19,7 @@ p{
     width: 300px;
     padding: 10px;
     margin:auto;
-    font-size: 50px;
+    font-size: 30px;
 }
 h1{ font-fmaily: "Times New Roman", Times, serif; 
     text-align:center;
@@ -26,4 +27,5 @@ h1{ font-fmaily: "Times New Roman", Times, serif;
     width: 100px;
     text-color: white;
     margin: auto;
+    text-size: 50px;
 }
