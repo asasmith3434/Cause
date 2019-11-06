@@ -15,5 +15,7 @@ body{
 p{ 
     text-align: center;
      background-color: #80ced6;
+    width: 300px;
+    padding: 10px;
 }
 
